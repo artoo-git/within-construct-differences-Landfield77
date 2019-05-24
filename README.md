@@ -6,4 +6,6 @@ I have started this work with Greta Cecutti and Lauren Sayers while trying to ex
 
 The funciton is in a state of draft and we are evaluating possible method to approach this issue. A conference presentation connected with this work has won two  awards for its innovative ideas in 2017. But the project has been paused since then for other pending commintments of the authors.
 
+I have invited Richard Bell who (witho our email correspondance) has contributed significantly to the thinking behind my implementation of the method.
+
 
